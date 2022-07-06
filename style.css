@@ -8,6 +8,10 @@ h1 {
     font-size: 50px;
 }
 
+h1 {
+    font-size: 40px;
+}
+
 .orange {
     color: orange;
 
@@ -52,8 +56,39 @@ h1 {
     background-position: right;
 }
 
-.exprience_item {
+.exprience {
+    background-repeat: no-repeat;
+    background-position: left;
+}
 
-    box-shadow: 10px 10px 140px gold;
+.exprience_item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 14px rgb(219, 230, 137);
+    padding-left: 10px;
+    border-radius: 5%;
+    xborder-left: 7px solid chartreuse;
+
+
+}
+
+#f-web {
+
+    border-left: 7px solid coral;
+
+
+}
+
+#j-web {
+
+    border-left: 7px solid rgb(24, 12, 187);
+
+
+}
+
+footer p {
+    margin-top: 100px;
+    text-align: center;
 
 }
