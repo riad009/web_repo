@@ -15,12 +15,7 @@ h1 {
 
 section {
     display: flex;
-}
-
-.width img {
-    width: 70%;
-
-
+    margin-bottom: 50px;
 }
 
 .width {
@@ -28,6 +23,11 @@ section {
     padding-left: 5%;
 }
 
+.width img {
+    width: 70%;
+
+
+}
 
 .button {
     text-decoration: none;
@@ -43,4 +43,11 @@ section {
 
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream {
+
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
